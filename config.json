@@ -1,4 +1,5 @@
 {
   "status": "active",
-  "message": ""
+  "alert_message": "Requesting you to pay usage dues from payment section.",
+  "status_message": "Storage license is active for sukhiparibar"
 }
